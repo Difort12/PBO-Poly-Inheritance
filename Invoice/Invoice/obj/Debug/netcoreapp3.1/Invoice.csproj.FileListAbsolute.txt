@@ -1,0 +1,25 @@
+C:\Users\Darel\source\repos\Invoice\Invoice\bin\Debug\netcoreapp3.1\Invoice.exe
+C:\Users\Darel\source\repos\Invoice\Invoice\bin\Debug\netcoreapp3.1\Invoice.deps.json
+C:\Users\Darel\source\repos\Invoice\Invoice\bin\Debug\netcoreapp3.1\Invoice.runtimeconfig.json
+C:\Users\Darel\source\repos\Invoice\Invoice\bin\Debug\netcoreapp3.1\Invoice.runtimeconfig.dev.json
+C:\Users\Darel\source\repos\Invoice\Invoice\bin\Debug\netcoreapp3.1\Invoice.dll
+C:\Users\Darel\source\repos\Invoice\Invoice\bin\Debug\netcoreapp3.1\Invoice.pdb
+C:\Users\Darel\source\repos\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.AssemblyInfoInputs.cache
+C:\Users\Darel\source\repos\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.AssemblyInfo.cs
+C:\Users\Darel\source\repos\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.csproj.CoreCompileInputs.cache
+C:\Users\Darel\source\repos\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.dll
+C:\Users\Darel\source\repos\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.pdb
+C:\Users\Darel\source\repos\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.genruntimeconfig.cache
+C:\Users\Darel\source\repos\PBO OOP\Invoice\Invoice\bin\Debug\netcoreapp3.1\Invoice.exe
+C:\Users\Darel\source\repos\PBO OOP\Invoice\Invoice\bin\Debug\netcoreapp3.1\Invoice.deps.json
+C:\Users\Darel\source\repos\PBO OOP\Invoice\Invoice\bin\Debug\netcoreapp3.1\Invoice.runtimeconfig.json
+C:\Users\Darel\source\repos\PBO OOP\Invoice\Invoice\bin\Debug\netcoreapp3.1\Invoice.runtimeconfig.dev.json
+C:\Users\Darel\source\repos\PBO OOP\Invoice\Invoice\bin\Debug\netcoreapp3.1\Invoice.dll
+C:\Users\Darel\source\repos\PBO OOP\Invoice\Invoice\bin\Debug\netcoreapp3.1\Invoice.pdb
+C:\Users\Darel\source\repos\PBO OOP\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.csprojAssemblyReference.cache
+C:\Users\Darel\source\repos\PBO OOP\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.AssemblyInfoInputs.cache
+C:\Users\Darel\source\repos\PBO OOP\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.AssemblyInfo.cs
+C:\Users\Darel\source\repos\PBO OOP\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.csproj.CoreCompileInputs.cache
+C:\Users\Darel\source\repos\PBO OOP\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.dll
+C:\Users\Darel\source\repos\PBO OOP\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.pdb
+C:\Users\Darel\source\repos\PBO OOP\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.genruntimeconfig.cache

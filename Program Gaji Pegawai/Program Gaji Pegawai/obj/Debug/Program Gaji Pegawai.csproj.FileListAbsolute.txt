@@ -1,0 +1,7 @@
+C:\Users\Darel\source\repos\Program Gaji Pegawai\Program Gaji Pegawai\bin\Debug\Program Gaji Pegawai.exe.config
+C:\Users\Darel\source\repos\Program Gaji Pegawai\Program Gaji Pegawai\bin\Debug\Program Gaji Pegawai.exe
+C:\Users\Darel\source\repos\Program Gaji Pegawai\Program Gaji Pegawai\bin\Debug\Program Gaji Pegawai.pdb
+C:\Users\Darel\source\repos\Program Gaji Pegawai\Program Gaji Pegawai\obj\Debug\Program Gaji Pegawai.csprojAssemblyReference.cache
+C:\Users\Darel\source\repos\Program Gaji Pegawai\Program Gaji Pegawai\obj\Debug\Program Gaji Pegawai.csproj.CoreCompileInputs.cache
+C:\Users\Darel\source\repos\Program Gaji Pegawai\Program Gaji Pegawai\obj\Debug\Program Gaji Pegawai.exe
+C:\Users\Darel\source\repos\Program Gaji Pegawai\Program Gaji Pegawai\obj\Debug\Program Gaji Pegawai.pdb

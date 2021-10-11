@@ -1,0 +1,26 @@
+C:\Users\Darel\source\repos\Polymorph\Polymorph\obj\Debug\netcoreapp3.1\Polymorph.csprojAssemblyReference.cache
+C:\Users\Darel\source\repos\Polymorph\Polymorph\obj\Debug\netcoreapp3.1\Polymorph.AssemblyInfoInputs.cache
+C:\Users\Darel\source\repos\Polymorph\Polymorph\obj\Debug\netcoreapp3.1\Polymorph.AssemblyInfo.cs
+C:\Users\Darel\source\repos\Polymorph\Polymorph\obj\Debug\netcoreapp3.1\Polymorph.csproj.CoreCompileInputs.cache
+C:\Users\Darel\source\repos\Polymorph\Polymorph\bin\Debug\netcoreapp3.1\Polymorph.exe
+C:\Users\Darel\source\repos\Polymorph\Polymorph\bin\Debug\netcoreapp3.1\Polymorph.deps.json
+C:\Users\Darel\source\repos\Polymorph\Polymorph\bin\Debug\netcoreapp3.1\Polymorph.runtimeconfig.json
+C:\Users\Darel\source\repos\Polymorph\Polymorph\bin\Debug\netcoreapp3.1\Polymorph.runtimeconfig.dev.json
+C:\Users\Darel\source\repos\Polymorph\Polymorph\bin\Debug\netcoreapp3.1\Polymorph.dll
+C:\Users\Darel\source\repos\Polymorph\Polymorph\bin\Debug\netcoreapp3.1\Polymorph.pdb
+C:\Users\Darel\source\repos\Polymorph\Polymorph\obj\Debug\netcoreapp3.1\Polymorph.dll
+C:\Users\Darel\source\repos\Polymorph\Polymorph\obj\Debug\netcoreapp3.1\Polymorph.pdb
+C:\Users\Darel\source\repos\Polymorph\Polymorph\obj\Debug\netcoreapp3.1\Polymorph.genruntimeconfig.cache
+C:\Users\Darel\source\repos\PBO OOP\Polymorph\Polymorph\bin\Debug\netcoreapp3.1\Polymorph.exe
+C:\Users\Darel\source\repos\PBO OOP\Polymorph\Polymorph\bin\Debug\netcoreapp3.1\Polymorph.deps.json
+C:\Users\Darel\source\repos\PBO OOP\Polymorph\Polymorph\bin\Debug\netcoreapp3.1\Polymorph.runtimeconfig.json
+C:\Users\Darel\source\repos\PBO OOP\Polymorph\Polymorph\bin\Debug\netcoreapp3.1\Polymorph.runtimeconfig.dev.json
+C:\Users\Darel\source\repos\PBO OOP\Polymorph\Polymorph\bin\Debug\netcoreapp3.1\Polymorph.dll
+C:\Users\Darel\source\repos\PBO OOP\Polymorph\Polymorph\bin\Debug\netcoreapp3.1\Polymorph.pdb
+C:\Users\Darel\source\repos\PBO OOP\Polymorph\Polymorph\obj\Debug\netcoreapp3.1\Polymorph.csprojAssemblyReference.cache
+C:\Users\Darel\source\repos\PBO OOP\Polymorph\Polymorph\obj\Debug\netcoreapp3.1\Polymorph.AssemblyInfoInputs.cache
+C:\Users\Darel\source\repos\PBO OOP\Polymorph\Polymorph\obj\Debug\netcoreapp3.1\Polymorph.AssemblyInfo.cs
+C:\Users\Darel\source\repos\PBO OOP\Polymorph\Polymorph\obj\Debug\netcoreapp3.1\Polymorph.csproj.CoreCompileInputs.cache
+C:\Users\Darel\source\repos\PBO OOP\Polymorph\Polymorph\obj\Debug\netcoreapp3.1\Polymorph.dll
+C:\Users\Darel\source\repos\PBO OOP\Polymorph\Polymorph\obj\Debug\netcoreapp3.1\Polymorph.pdb
+C:\Users\Darel\source\repos\PBO OOP\Polymorph\Polymorph\obj\Debug\netcoreapp3.1\Polymorph.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+C:\Users\Darel\source\repos\Payroll System\Payroll System\bin\Debug\netcoreapp3.1\Payroll System.exe
+C:\Users\Darel\source\repos\Payroll System\Payroll System\bin\Debug\netcoreapp3.1\Payroll System.deps.json
+C:\Users\Darel\source\repos\Payroll System\Payroll System\bin\Debug\netcoreapp3.1\Payroll System.runtimeconfig.json
+C:\Users\Darel\source\repos\Payroll System\Payroll System\bin\Debug\netcoreapp3.1\Payroll System.runtimeconfig.dev.json
+C:\Users\Darel\source\repos\Payroll System\Payroll System\bin\Debug\netcoreapp3.1\Payroll System.dll
+C:\Users\Darel\source\repos\Payroll System\Payroll System\bin\Debug\netcoreapp3.1\Payroll System.pdb
+C:\Users\Darel\source\repos\Payroll System\Payroll System\obj\Debug\netcoreapp3.1\Payroll System.csprojAssemblyReference.cache
+C:\Users\Darel\source\repos\Payroll System\Payroll System\obj\Debug\netcoreapp3.1\Payroll System.AssemblyInfoInputs.cache
+C:\Users\Darel\source\repos\Payroll System\Payroll System\obj\Debug\netcoreapp3.1\Payroll System.AssemblyInfo.cs
+C:\Users\Darel\source\repos\Payroll System\Payroll System\obj\Debug\netcoreapp3.1\Payroll System.csproj.CoreCompileInputs.cache
+C:\Users\Darel\source\repos\Payroll System\Payroll System\obj\Debug\netcoreapp3.1\Payroll System.dll
+C:\Users\Darel\source\repos\Payroll System\Payroll System\obj\Debug\netcoreapp3.1\Payroll System.pdb
+C:\Users\Darel\source\repos\Payroll System\Payroll System\obj\Debug\netcoreapp3.1\Payroll System.genruntimeconfig.cache
+C:\Users\Darel\source\repos\PBO OOP\Payroll System\Payroll System\bin\Debug\netcoreapp3.1\Payroll System.exe
+C:\Users\Darel\source\repos\PBO OOP\Payroll System\Payroll System\bin\Debug\netcoreapp3.1\Payroll System.deps.json
+C:\Users\Darel\source\repos\PBO OOP\Payroll System\Payroll System\bin\Debug\netcoreapp3.1\Payroll System.runtimeconfig.json
+C:\Users\Darel\source\repos\PBO OOP\Payroll System\Payroll System\bin\Debug\netcoreapp3.1\Payroll System.runtimeconfig.dev.json
+C:\Users\Darel\source\repos\PBO OOP\Payroll System\Payroll System\bin\Debug\netcoreapp3.1\Payroll System.dll
+C:\Users\Darel\source\repos\PBO OOP\Payroll System\Payroll System\bin\Debug\netcoreapp3.1\Payroll System.pdb
+C:\Users\Darel\source\repos\PBO OOP\Payroll System\Payroll System\obj\Debug\netcoreapp3.1\Payroll System.csprojAssemblyReference.cache
+C:\Users\Darel\source\repos\PBO OOP\Payroll System\Payroll System\obj\Debug\netcoreapp3.1\Payroll System.AssemblyInfoInputs.cache
+C:\Users\Darel\source\repos\PBO OOP\Payroll System\Payroll System\obj\Debug\netcoreapp3.1\Payroll System.AssemblyInfo.cs
+C:\Users\Darel\source\repos\PBO OOP\Payroll System\Payroll System\obj\Debug\netcoreapp3.1\Payroll System.csproj.CoreCompileInputs.cache
+C:\Users\Darel\source\repos\PBO OOP\Payroll System\Payroll System\obj\Debug\netcoreapp3.1\Payroll System.dll
+C:\Users\Darel\source\repos\PBO OOP\Payroll System\Payroll System\obj\Debug\netcoreapp3.1\Payroll System.pdb
+C:\Users\Darel\source\repos\PBO OOP\Payroll System\Payroll System\obj\Debug\netcoreapp3.1\Payroll System.genruntimeconfig.cache
